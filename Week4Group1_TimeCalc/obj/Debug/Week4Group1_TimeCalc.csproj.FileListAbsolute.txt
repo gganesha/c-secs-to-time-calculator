@@ -1,0 +1,30 @@
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\bin\Debug\Week4Group1_TimeCalc.exe.config
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\bin\Debug\Week4Group1_TimeCalc.exe
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\bin\Debug\Week4Group1_TimeCalc.pdb
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.csprojAssemblyReference.cache
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\MainWindow.g.cs
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\App.g.cs
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc_MarkupCompile.cache
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc_MarkupCompile.lref
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\MainWindow.baml
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.g.resources
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.Properties.Resources.resources
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.csproj.GenerateResource.cache
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.csproj.CoreCompileInputs.cache
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.exe
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.pdb
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\bin\Debug\Week4Group1_TimeCalc.exe.config
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\bin\Debug\Week4Group1_TimeCalc.exe
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\bin\Debug\Week4Group1_TimeCalc.pdb
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.csprojAssemblyReference.cache
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\MainWindow.g.cs
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\App.g.cs
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc_MarkupCompile.cache
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc_MarkupCompile.lref
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\MainWindow.baml
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.g.resources
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.Properties.Resources.resources
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.csproj.GenerateResource.cache
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.csproj.CoreCompileInputs.cache
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.exe
+C:\Users\siva_\OneDrive\Desktop\CONESTOGA\Term 1\Software Development\Assignments\Week 4\Week4Group1_TimeCalc\Week4Group1_TimeCalc\obj\Debug\Week4Group1_TimeCalc.pdb
